@@ -1,6 +1,6 @@
 # PDSMA — Processos de Desenvolvimento de Software e Metodologias Ágeis
 
-> **Proposta documental v0.1 · 29/10/2026 · Em revisão.** Nenhuma aprovação metodológica definitiva é presumida.
+> **Base metodológica v1.0 · 29/10/2026 · Aprovada pelo responsável.** O guia é adaptável e não representa certificação externa.
 
 Guia operacional em português para aplicações web de complexidade intermediária, desde a concepção da ideia até o **primeiro incremento funcional e validado**. Integra descoberta de produto, engenharia de requisitos, UX/UI, arquitetura evolutiva, desenvolvimento por fatias verticais, qualidade, segurança, DevOps e evolução baseada em evidências.
 
@@ -46,7 +46,7 @@ Guia operacional em português para aplicações web de complexidade intermediá
 - Documentação como código em Markdown, com links relativos, IDs e registro de mudanças.
 - Contribuições por branch/PR, revisão e evidências ligadas a issues e decisões.
 - Verificação automatizada de estrutura e links locais por [script Python](scripts/validar_documentacao.py) e [GitHub Actions](.github/workflows/docs.yml); não confundir CI com revisão técnica humana.
-- [CONTRIBUTING](CONTRIBUTING.md) · [CHANGELOG](CHANGELOG.md) · templates de PR/issues e CODEOWNERS.
+- [CONTRIBUTING](CONTRIBUTING.md) · [CHANGELOG](CHANGELOG.md) · [DEC-001 — Aprovação da base](docs/decisoes/DEC-001-aprovacao-base-v1.0.md) · templates de PR/issues e CODEOWNERS.
 - **Licença de redistribuição ainda não escolhida**; não presumir autorização pública pelo fato de existir repositório.
 
 As recomendações do PDSMA são políticas **propostas**, adaptáveis ao porte e ao risco; não equivalem a certificação Scrum, WCAG, OWASP, ISO ou LGPD.
