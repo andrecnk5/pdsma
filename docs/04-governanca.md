@@ -28,8 +28,10 @@ IDs de requisitos, decisões e testes permanecem estáveis. Estados possíveis: 
 
 Avaliar tempo entre descoberta e feedback, retrabalho por ambiguidade, falhas detectadas antes/depois da homologação e incidentes de release. Métricas de engenharia descrevem fluxo e qualidade, não desempenho individual isolado.
 
-## Governança da própria v0.1
+## Aprovação da base v1.0
 
-Esta versão foi proposta para revisão. A passagem para v1.0 exige decisão explícita do responsável, revisão dos controles A–D, papéis, fontes, política de alteração e licença. Um PR criado ou CI verde não constitui aprovação.
+A base metodológica inicial foi aprovada pelo responsável em 29/10/2026, conforme [DEC-001](decisoes/DEC-001-aprovacao-base-v1.0.md). Os processos e controles formam uma referência adaptável, não uma certificação. Alterações materiais posteriores exigem avaliação e decisão registrada.
+
+**Pendências independentes:** a licença de redistribuição permanece não definida e regras de proteção da branch principal ainda requerem configuração. Um PR criado ou CI verde não constitui, isoladamente, aprovação humana.
 
 [Índice](../README.md)
