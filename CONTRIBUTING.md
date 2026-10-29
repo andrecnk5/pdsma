@@ -17,6 +17,6 @@ Diferencie afirmações normativas de recomendações contextualizadas. Não pre
 
 ## Estados e versões
 
-Proposto → Em revisão → Aprovado / Rejeitado → Substituído. A versão v0.x é experimental; passar para v1.0 depende de decisão explícita do responsável. Considere CODEOWNERS e ruleset somente quando configurados com permissões reais.
+Proposto → Em revisão → Aprovado / Rejeitado → Substituído. A base v1.0 foi aprovada pelo responsável em 29/10/2026 ([DEC-001](docs/decisoes/DEC-001-aprovacao-base-v1.0.md)). Mudanças materiais posteriores exigem nova avaliação e decisão. CODEOWNERS e ruleset só impõem revisão quando configurados com permissões reais.
 
 [Índice](README.md)
