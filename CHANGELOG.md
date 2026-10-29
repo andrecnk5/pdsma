@@ -1,19 +1,25 @@
 # Registro de alterações
 
-## Proposta v0.1 — 2026-10-29 — Não publicada como versão aprovada
+## [v1.0] — 2026-10-29 — Base metodológica aprovada
+
+**Decisão:** [DEC-001](docs/decisoes/DEC-001-aprovacao-base-v1.0.md) · **Implementação:** [PR #1](https://github.com/andrecnk5/pdsma/pull/1).
 
 ### Adicionado
 
-- 16 processos detalhados de concepção, levantamento, UX, projeto, entrega e evolução.
-- Fundamentos, mapa de dependências, controles A–D, papéis, governança, DoR/DoD e rastreabilidade.
-- Oito modelos reutilizáveis e exemplo fictício integrado.
-- Referências oficiais, convenções de contribuição, templates de GitHub e CI documental.
+- 16 processos da descoberta à evolução, com responsáveis, atividades, saídas e critérios verificáveis.
+- Fundamentos, mapa de dependências, controles A–D, papéis e governança.
+- Oito modelos de documentação, rastreabilidade e DoR/DoD.
+- Exemplo fictício de frequência escolar, fontes de referência e convenções GitHub.
+- Verificação automática de estrutura e links locais.
 
-### Pendente de decisão
+### Escopo da aprovação
 
-- Revisão e aprovação dos processos e alçadas.
-- Configuração real de proteção de main e verificações obrigatórias.
-- Definição de eventual licença de redistribuição.
-- Etiqueta de versão estável após aprovação registrada.
+A versão v1.0 consolida a **base metodológica inicial** para projetos web intermediários. Não comprova, por si só, certificação, auditoria independente ou conformidade normativa de projetos que a adotem.
+
+### Pendências
+
+- Configuração efetiva de proteção da branch principal e checks obrigatórios.
+- Decisão de licença de redistribuição, que permanece indefinida.
+- Revisões editoriais e técnicas futuras conforme novas evidências.
 
 [Índice](README.md)
