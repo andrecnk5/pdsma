@@ -6,6 +6,8 @@ labels: []
 assignees: []
 ---
 
+# Relato de erro na documentação
+
 ## Documento e seção
 
 ## Problema atual
