@@ -1,6 +1,6 @@
 # P09 — Dados, APIs e integrações
 
-> **Estado:** proposta v0.1, sujeita a revisão e adaptação. A posição numérica é didática: não representa fases isoladas.
+> **Estado:** referência v1.0 aprovada em 29/10/2026 e adaptável por projeto. A ordem numérica é didática, não uma cascata.
 
 ## Objetivo e responsabilidades
 
